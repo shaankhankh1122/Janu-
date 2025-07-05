@@ -35,7 +35,7 @@ global.countRestart = global.countRestart || 0;
 function startBot(message) {
     if (message) logger(message, "[ Starting ]");
 
-    const child = spawn("node", ["--trace-warnings", "--async-stack-traces", "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿.js"], {
+    const child = spawn("node", ["--trace-warnings", "--async-stack-traces", "Amir.js"], {
         cwd: __dirname,
         stdio: "inherit",
         shell: true
