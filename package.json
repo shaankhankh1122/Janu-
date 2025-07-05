@@ -1,8 +1,8 @@
 {
-                "name": "UZAIR-RAJPUT",
+                "name": "UZAIR-CHUTIYA",
                 "version": "10.1.1",
-                "description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿 💚✨",
-                "main": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿.js",
+                "description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 UZAIR CHUTIYA💚✨",
+                "main": "Amir.js",
                 "engines": {
                                 "node": "20.x",
                                 "npm": "10.0.0"
@@ -37,6 +37,7 @@
                                 "@miraipr0ject/assets": "^1.0.9",
                                 "@replit/database": "^2.0.2",
                                 "@supercharge/strings": "^1.28.0",
+                                "@dongdev/fca-unofficial": "^1.0.20",
                                 "akaneko": "^5.2.3",
                                 "axios": "^0.26.1",
                                 "body-parser": "^1.20.0",
